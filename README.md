@@ -1,9 +1,5 @@
-# About [DRAFT] 
+## About [DRAFT] 
  Simple gem management plugin for rubygems
-
-# Installation
-  
-    $ sudo gem install gem-sync --source=http://gems.github.com
 
 ## Usage
 
