@@ -19,10 +19,11 @@ Now synchronize
 
     Successfully installed rr-0.10.9
     1 gem installed
-    Successfully installed factory_girl-1.2.2
+    Successfully installed gist-1.0.3
     1 gem installed
 
 # References
+
   (How to write rubygem plugin)[http://tagaholic.me/2009/04/23/how-to-write-a-rubygem-command-plugin.html]
   (gem man plugin)[http://github.com/defunkt/gem-man]
 
