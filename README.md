@@ -1,7 +1,7 @@
-## About [DRAFT] 
+# About [DRAFT] 
  Simple gem management plugin for rubygems
 
-## Installation
+# Installation
   
     $ sudo gem install gem-sync --source=http://gems.github.com
 
@@ -24,6 +24,6 @@ Now synchronize
 
 ## References
 
- *  How to write rubygem plugin: http://tagaholic.me/2009/04/23/how-to-write-a-rubygem-command-plugin.html
- *  gem man plugin http://github.com/defunkt/gem-man
+ *  How to write rubygem plugin: <http://tagaholic.me/2009/04/23/how-to-write-a-rubygem-command-plugin.html>
+ *  gem man plugin <http://github.com/defunkt/gem-man>
 
