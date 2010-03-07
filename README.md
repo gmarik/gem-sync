@@ -3,6 +3,13 @@
 
 ## Usage
 
+## installation
+    
+    $ git clone git://github.com/gmarik/gem-sync
+    $ cd gem-sync/
+    $ gem build gem-sync.gemspec
+    $ sudo gem install gem-sync-0.0.2.gem
+
 Configure .gems list, gem per line
 
     $ cat .gems
