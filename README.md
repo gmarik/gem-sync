@@ -1,11 +1,11 @@
-# About [DRAFT] 
+## About [DRAFT] 
  Simple gem management plugin for rubygems
 
-# Installation
+## Installation
   
     $ sudo gem install gem-sync --source=http://gems.github.com
 
-# Usage
+## Usage
 
 Configure .gems list, gem per line
 
@@ -22,8 +22,8 @@ Now synchronize
     Successfully installed gist-1.0.3
     1 gem installed
 
-# References
+## References
 
-  (How to write rubygem plugin)[http://tagaholic.me/2009/04/23/how-to-write-a-rubygem-command-plugin.html]
-  (gem man plugin)[http://github.com/defunkt/gem-man]
+ *  How to write rubygem plugin: http://tagaholic.me/2009/04/23/how-to-write-a-rubygem-command-plugin.html
+ *  gem man plugin http://github.com/defunkt/gem-man
 
